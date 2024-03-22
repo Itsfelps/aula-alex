@@ -1,0 +1,23 @@
+
+const alunos = [
+    "Pietro",
+    "Juliana",
+    "Ana",
+    "Caio",
+    "Joao",
+    "Marjorie",
+    "Guilherme",
+    "Ricardo",
+    "Fabiana",
+    "Andre",
+    "Carlos",
+    "Paulo",
+    "Bia",
+    "Vivian",
+    "Isabela",
+    "Vinícius",
+    "Renan",
+    "Renata",
+    "Daisy",
+    "Felipe",
+]
